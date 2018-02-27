@@ -3,6 +3,7 @@ import random
 import datetime
 import boto3
 import time
+time.sleep(300)
 
 devNames = ['WAT01', 'WAT02', 'WAT03', 'WAT04', 'WAT05', 'WAT06', 'WAT07', 'WAT08', 'WAT09', 'WAT10']
 
